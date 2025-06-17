@@ -15,3 +15,7 @@ This will ensure that the president can adequately allocate funds to each provin
 To start, we started with identifying the different water source types, and the number of people they serve.
 ![Image](https://github.com/user-attachments/assets/3f34203d-2022-41c7-b52e-9626aef90e46)
 
+This showed us that most people use shared taps in the country and most of them are located in the rural areas. A good thing to consider is that fixing broken shared taps might be 
+the project that will affect the most people.
+
+![image](https://github.com/user-attachments/assets/37e63597-163c-444c-9ea9-832569018116)
